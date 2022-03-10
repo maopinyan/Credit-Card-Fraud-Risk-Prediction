@@ -1,5 +1,5 @@
 # Credit-Fraud-Risk-Model
-To build a classifier model to predict the likelihood of credit card applicants becoming a fraud or not 
+To build a classifier model to predict the likelihood of credit card applicants becoming a fraud or not. 
 
 # Project Objectives:
 •	Implement Fraud Risk model to classify the applicants as fraudulent or legitimate at the time of application <br>
